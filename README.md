@@ -250,8 +250,7 @@
 19|[@sih4sing5hong5](https://github.com/sih4sing5hong5)/[**han3_ji7_tsoo1_kian3**](https://github.com/sih4sing5hong5/han3_ji7_tsoo1_kian3) |漢字組建：快速產生漢語用字、古書、姓名。|[:arrow_upper_right:](http://xn--v0qr21b.xn--kpry57d)
 19|[@JustinSDK](https://github.com/JustinSDK)/[**JavaSE8Tutorial**](https://github.com/JustinSDK/JavaSE8Tutorial) |Java SE 8 技術手冊|
 17|[@leolin310148](https://github.com/leolin310148)/[**AndroidDesignSupportLibraryExamples**](https://github.com/leolin310148/AndroidDesignSupportLibraryExamples) |Simple examples for android design support library|
-16|[@mosil](https://github.com/mosil)/[**Android-Mosil-Sample-NavDrawer**](https://github.com/mosil/Android-Mosil-Sample-NavDrawer) |Material design on android (Side Nav)
-Android 中，Material design 風格的 navigation drawer，在 guildline 中對之定名為 Side Nav(http://www.google.com/design/spec/layout/structure.html#structure-side-nav-1)|
+16|[@mosil](https://github.com/mosil)/[**Android-Mosil-Sample-NavDrawer**](https://github.com/mosil/Android-Mosil-Sample-NavDrawer) |Material design on android (Side Nav) Android 中，Material design 風格的 navigation drawer，在 guildline 中對之定名為 Side Nav(http://www.google.com/design/spec/layout/structure.html#structure-side-nav-1)|
 16|[@TakumaMochizuki](https://github.com/TakumaMochizuki)/[**SimpleMaterialTabPager**](https://github.com/TakumaMochizuki/SimpleMaterialTabPager) |Simple to use Material Tabs with Pager|
 13|[@parkghost](https://github.com/parkghost)/[**NoSQLBenchmark**](https://github.com/parkghost/NoSQLBenchmark) |NoSQLBenchmark is a stress test toolkit for test NoSQL|[:arrow_upper_right:](http://blog.brandonc.me/2011/11/memcached-vs-redis.html)
 11|[@wuman](https://github.com/wuman)/[**LruSoftCache**](https://github.com/wuman/LruSoftCache) |A modified version of Android LruCache that uses SoftReference|
