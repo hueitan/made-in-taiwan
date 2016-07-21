@@ -2,6 +2,8 @@
 
 > A list of neat projects made in Taiwan
 
+> 台灣加油！
+
 ## Contents
 
 - [JavaScript](#javascript)
@@ -289,11 +291,41 @@
 
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
+307|[@tgjones](https://github.com/tgjones)/[**gemini**](https://github.com/tgjones/gemini) |Gemini is an IDE framework similar in concept to the Visual Studio Shell. It uses AvalonDock and has an MVVM architecture based on Caliburn Micro.|[:arrow_upper_right:](http://documentup.com/tgjones/gemini)
+26|[@tgjones](https://github.com/tgjones)/[**meshellator**](https://github.com/tgjones/meshellator) |3D asset import library for .NET 4.0. Supported formats are Autodesk 3DS and Lightwave OBJ.|
+22|[@huanlin](https://github.com/huanlin)/[**di-book-support**](https://github.com/huanlin/di-book-support) |Supplementary files for DI.NET book: https://leanpub.com/dinet|
+22|[@tgjones](https://github.com/tgjones)/[**rasterizr**](https://github.com/tgjones/rasterizr) |Software rasterizer written in C#, with an API based on Direct3D 10 / 11. Programmable parts of the pipeline execute "real" HLSL shaders.|[:arrow_upper_right:](http://documentup.com/tgjones/rasterizr)
+16|[@tgjones](https://github.com/tgjones)/[**nexus**](https://github.com/tgjones/nexus) |Small and lightweight 3D vector and matrix library for .NET 4.0.|
+12|[@tgjones](https://github.com/tgjones)/[**xbuilder**](https://github.com/tgjones/xbuilder) |XBuilder is an extension for Visual Studio 2010 which adds the ability to preview models, effects and textures from your XNA content projects, right inside Visual Studio.|[:arrow_upper_right:](http://timjones.tw/blog/archive/2010/11/26/announcing-xbuilder-a-free--open-source-content)
+11|[@rschiang](https://github.com/rschiang)/[**rsPlurkLib**](https://github.com/rschiang/rsPlurkLib) |C# Plurk API 2.0 Library|
+10|[@tgjones](https://github.com/tgjones)/[**stitchup**](https://github.com/tgjones/stitchup) |StitchUp is an XNA 4.0 implementation of Shawn Hargreaves' article "Generating Shaders From HLSL Fragments". It integrates with the XNA Content Pipeline to provide compile-time linking of shader fragments.|[:arrow_upper_right:](http://timjones.tw/blog/archive/2010/11/13/introducing-stitchup-generating-shaders-from-hlsl-shader-fragments)
+8|[@tgjones](https://github.com/tgjones)/[**dotwarp**](https://github.com/tgjones/dotwarp) |DotWarp is an easy-to-use 3D software rasterization library, which produces 2D rendered images from 3D mesh files. It uses WARP, a 3D software rasterizer built-in to Windows Vista / 7 / Server 2008 R2, for the actual rasterization. It is a .NET 4.0 project.|[:arrow_upper_right:](http://timjones.tw/blog/archive/2011/02/23/dotwarp---server-side-d-renderer-for)
+7|[@tgjones](https://github.com/tgjones)/[**ormongo**](https://github.com/tgjones/ormongo) |Ormongo is a very lightweight implementation of the ActiveRecord pattern, built on top of the 10gen Mongo C# driver.|[:arrow_upper_right:](http://timjones.tw)
+7|[@tgjones](https://github.com/tgjones)/[**dryrunner**](https://github.com/tgjones/dryrunner) |Isolated integration testing for ASP.NET|[:arrow_upper_right:](http://timjones.tw/blog/archive/2014/01/19/dryrunner-isolated-integration-testing-for-aspnet)
+5|[@kyleap](https://github.com/kyleap)/[**2014.IT.Ironman7**](https://github.com/kyleap/2014.IT.Ironman7) |[鐵人30天]當ASP.NET MVC 遇見 Angular.js MVC 客戶管理系統|
+4|[@huanlin](https://github.com/huanlin)/[**Chinese-Converter**](https://github.com/huanlin/Chinese-Converter) |中文簡繁轉換的命令列工具|
+3|[@kagami3421](https://github.com/kagami3421)/[**Skylines_DemandMaster**](https://github.com/kagami3421/Skylines_DemandMaster) |Demand Control Mod for Cities:Skylines|
+3|[@tgjones](https://github.com/tgjones)/[**monogame-samples**](https://github.com/tgjones/monogame-samples) |Collection of samples for the MonoGame framework|[:arrow_upper_right:](http://timjones.tw)
+3|[@tgjones](https://github.com/tgjones)/[**osiris**](https://github.com/tgjones/osiris) |Some XNA 4.0 Content Pipeline extensions|[:arrow_upper_right:](http://timjones.tw/blog/archive/2010/11/16/an-xna--content-pipeline-processor-for-terrain)
+2|[@tgjones](https://github.com/tgjones)/[**weaver**](https://github.com/tgjones/weaver) |HLSL surface shader parser for XNA / MonoGame|[:arrow_upper_right:](http://timjones.tw)
+2|[@tgjones](https://github.com/tgjones)/[**aether**](https://github.com/tgjones/aether) |Ray tracer in C#|
+2|[@larrynung](https://github.com/larrynung)/[**WebCamPictureBox**](https://github.com/larrynung/WebCamPictureBox) |WebCam PictureBox|
+2|[@tgjones](https://github.com/tgjones)/[**idx3dsharp**](https://github.com/tgjones/idx3dsharp) |Port of the idx3d software rasterizer|
+2|[@larrynung](https://github.com/larrynung)/[**CustomChangeMonitorDemo**](https://github.com/larrynung/CustomChangeMonitorDemo) |Demo how to implement custom .NET 4.0 System.Runtime.Caching's ChangeMonitor |
+2|[@larrynung](https://github.com/larrynung)/[**MultiProcessArchitectureDemo**](https://github.com/larrynung/MultiProcessArchitectureDemo) |Demo how to do a Multi-process Architecture application like chrome|
+2|[@tgjones](https://github.com/tgjones)/[**awesome-game-2**](https://github.com/tgjones/awesome-game-2) |The "sequel" to Awesome Game. It was supposed to be a resource trading game played out on a world stage...|
+2|[@fboris](https://github.com/fboris)/[**Serial-Port-Communication-GUI**](https://github.com/fboris/Serial-Port-Communication-GUI) |a simple serial port communication program |
+2|[@tgjones](https://github.com/tgjones)/[**xna-tutorials**](https://github.com/tgjones/xna-tutorials) |Little XNA projects that I post as tutorials on my blog|[:arrow_upper_right:](http://timjones.tw)
 
 ### CSS
 
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
+201|[@lockys](https://github.com/lockys)/[**AwesomeSearch**](https://github.com/lockys/AwesomeSearch) |:mag: Search All Repos of The Awesome Lists :mag_right:|[:arrow_upper_right:](https://awesomelists.top)
+47|[@pangfengliu](https://github.com/pangfengliu)/[**programmingtasks**](https://github.com/pangfengliu/programmingtasks) |programming tasks from my courses|
+3|[@lockys](https://github.com/lockys)/[**dcard-bar**](https://github.com/lockys/dcard-bar) |一個小工具讓你快速看你今天 Dcard 抽到的是誰|[:arrow_upper_right:](http://lockys.github.io/dcard-bar)
+3|[@brucetsao](https://github.com/brucetsao)/[**Fritzing**](https://github.com/brucetsao/Fritzing) |User Parts for Fritzing|
+2|[@opjlmi](https://github.com/opjlmi)/[**graduate-helper**](https://github.com/opjlmi/graduate-helper) ||
 
 ### HTML
 
@@ -304,6 +336,65 @@
 
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
+347|[@jserv](https://github.com/jserv)/[**facebooc**](https://github.com/jserv/facebooc) |Yet another Facebook clone written in C|
+275|[@jserv](https://github.com/jserv)/[**amacc**](https://github.com/jserv/amacc) |Small C Compiler generating ELF executable for ARM architecture|
+129|[@jserv](https://github.com/jserv)/[**mini-arm-os**](https://github.com/jserv/mini-arm-os) |Build a minimal multi-tasking OS kernel for ARM from scratch|
+80|[@scottt](https://github.com/scottt)/[**debugbreak**](https://github.com/scottt/debugbreak) |break into the debugger programmatically|
+73|[@Hom-Wang](https://github.com/Hom-Wang)/[**SmartIMU**](https://github.com/Hom-Wang/SmartIMU) |IMU Development Kit，Use STM32F411C、MPU9250、LPS25H|[:arrow_upper_right:](http://kitsprout.logdown.com/posts/565999)
+65|[@jserv](https://github.com/jserv)/[**kernel-in-kernel**](https://github.com/jserv/kernel-in-kernel) |Develop your own OS kernel by reusing Linux infrastructure|
+42|[@jserv](https://github.com/jserv)/[**xv6-x86_64**](https://github.com/jserv/xv6-x86_64) |re-implementation of UNIX v6 in ANSI C for x86_64 SMP|
+41|[@Hom-Wang](https://github.com/Hom-Wang)/[**Quadcopter**](https://github.com/Hom-Wang/Quadcopter) |101年大學專題－四軸飛行器|[:arrow_upper_right:](http://kitsprout.logdown.com/posts/335296)
+31|[@buganini](https://github.com/buganini)/[**bsdconv**](https://github.com/buganini/bsdconv) |BSD licensed charset/encoding converter library with more functionalities than libiconv|
+29|[@jserv](https://github.com/jserv)/[**codezero**](https://github.com/jserv/codezero) |Codezero Microkernel|
+23|[@HawxChen](https://github.com/HawxChen)/[**MIT-6.828-Adventure**](https://github.com/HawxChen/MIT-6.828-Adventure) |I love OS. I implement it.|[:arrow_upper_right:](http://hawxchen.blogspot.com)
+17|[@browny](https://github.com/browny)/[**hand-tracking**](https://github.com/browny/hand-tracking) |A simple multiple hands tracking implementation based on OpenCV library|
+17|[@scottt](https://github.com/scottt)/[**openssl-android**](https://github.com/scottt/openssl-android) |Official Android OpenSSL patched to build as an external project with the Android NDK|
+17|[@buganini](https://github.com/buganini)/[**bug5**](https://github.com/buganini/bug5) |A Big5/GBK <-> UTF-8 translating layer in terminal|
+13|[@jserv](https://github.com/jserv)/[**stm32f429-r3d**](https://github.com/jserv/stm32f429-r3d) |small software 3D rendering program on STM32F429-Discovery|
+13|[@jserv](https://github.com/jserv)/[**simple-dvm**](https://github.com/jserv/simple-dvm) |A simplified educational Dalvik virtual machine implementation|
+12|[@jserv](https://github.com/jserv)/[**tlsf-bsd**](https://github.com/jserv/tlsf-bsd) |Two Level Segregated Fit (TLSF) memory allocator implementation, BSD License|
+11|[@fourdollars](https://github.com/fourdollars)/[**ibus-zhuyin**](https://github.com/fourdollars/ibus-zhuyin) |A zhuyin (phonetic) Chinese input method.|[:arrow_upper_right:](http://fourdollars.github.io/ibus-zhuyin/)
+10|[@jserv](https://github.com/jserv)/[**kvm-user-x86**](https://github.com/jserv/kvm-user-x86) |A simple userspace program to interact with Linux KVM|
+9|[@Hom-Wang](https://github.com/Hom-Wang)/[**NRF5x**](https://github.com/Hom-Wang/NRF5x) |nRF51-DK, nRF52-DK & nRF51-Dongle|[:arrow_upper_right:](http://kitsprout.logdown.com/posts/423465)
+9|[@cooldavid](https://github.com/cooldavid)/[**tsps**](https://github.com/cooldavid/tsps) |IPv6 Tunnel Setup Protocol Server|
+7|[@cleaton](https://github.com/cleaton)/[**liquid-chocolate**](https://github.com/cleaton/liquid-chocolate) |liquid chocolate|[:arrow_upper_right:](liquid chocolate)
+7|[@tjwei](https://github.com/tjwei)/[**WebKitGtkKindleDXG**](https://github.com/tjwei/WebKitGtkKindleDXG) |WebKitGtk port on Kindle DX Graphite|
+6|[@jserv](https://github.com/jserv)/[**Taunix**](https://github.com/jserv/Taunix) |Realtime operating system kernel for TI TMS320F24x DSP|
+6|[@browny](https://github.com/browny)/[**cmake-practice**](https://github.com/browny/cmake-practice) |practice cmake|
+6|[@jserv](https://github.com/jserv)/[**stm32f429-lcd-demo**](https://github.com/jserv/stm32f429-lcd-demo) |Simple STM32F429 Discovery LCD demo program using emWin library|
+5|[@shengwen1997](https://github.com/shengwen1997)/[**stm32_pratice**](https://github.com/shengwen1997/stm32_pratice) |Some stm32f4 examples|
+5|[@fourdollars](https://github.com/fourdollars)/[**hooc**](https://github.com/fourdollars/hooc) |Handy Object Oriented C|
+5|[@kanru](https://github.com/kanru)/[**notmuch**](https://github.com/kanru/notmuch) |Notmuch is not much of an email program.|[:arrow_upper_right:](http://notmuchmail.org/)
+5|[@buganini](https://github.com/buganini)/[**rcexecr**](https://github.com/buganini/rcexecr) |Parallel rc.d scripts executer for FreeBSD|
+5|[@buganini](https://github.com/buganini)/[**ruby-bsdconv**](https://github.com/buganini/ruby-bsdconv) |Ruby wrapper for bsdconv |[:arrow_upper_right:](https://rubygems.org/gems/ruby-bsdconv)
+5|[@fourdollars](https://github.com/fourdollars)/[**x11-touchscreen-calibrator**](https://github.com/fourdollars/x11-touchscreen-calibrator) |X Window System's Touchscreen Calibrator|[:arrow_upper_right:](http://documentup.com/fourdollars/x11-touchscreen-calibrator/recompile)
+5|[@jserv](https://github.com/jserv)/[**dummy-driver**](https://github.com/jserv/dummy-driver) |dummy Linux kernel module for education purpose|
+4|[@kanru](https://github.com/kanru)/[**awesome**](https://github.com/kanru/awesome) |kanru's awesome branch|
+4|[@hungys](https://github.com/hungys)/[**NCTU_OS_2015_HW1**](https://github.com/hungys/NCTU_OS_2015_HW1) |Homework 1 for Introduction to Operating Systems, Fall 2015|
+4|[@cleaton](https://github.com/cleaton)/[**acer_kernel_koud**](https://github.com/cleaton/acer_kernel_koud) |2.6.29 kernel koud|[:arrow_upper_right:](acer_kernel_koud)
+4|[@olvaffe](https://github.com/olvaffe)/[**mesa**](https://github.com/olvaffe/mesa) |http://cgit.freedesktop.org/mesa/mesa/|
+4|[@buganini](https://github.com/buganini)/[**chiconv**](https://github.com/buganini/chiconv) |Auto chinese encoding converter|
+4|[@tjwei](https://github.com/tjwei)/[**KindleChewing**](https://github.com/tjwei/KindleChewing) |Chewing Chinese Input Method for Kindle DX|
+3|[@cleaton](https://github.com/cleaton)/[**android_kernel_samsung_smdk4210**](https://github.com/cleaton/android_kernel_samsung_smdk4210) |Kernel for Samsung SMDK4210 Boards|
+3|[@kanru](https://github.com/kanru)/[**chinese-type-practice**](https://github.com/kanru/chinese-type-practice) ||
+3|[@Hom-Wang](https://github.com/Hom-Wang)/[**SerialDebugAssistant**](https://github.com/Hom-Wang/SerialDebugAssistant) |QT Serial Debug Assistant|
+3|[@jserv](https://github.com/jserv)/[**scalable-font-editor**](https://github.com/jserv/scalable-font-editor) |scale font editor, which produces the font for embedded environments|
+2|[@buganini](https://github.com/buganini)/[**bsdconv-opencc**](https://github.com/buganini/bsdconv-opencc) |OpenCC inter-conversion module for bsdconv|
+2|[@cleaton](https://github.com/cleaton)/[**acer_kernel**](https://github.com/cleaton/acer_kernel) ||
+2|[@scottt](https://github.com/scottt)/[**python-vmci**](https://github.com/scottt/python-vmci) |Python's socket patched with VMCI (VMware communication interface) support|
+2|[@scottt](https://github.com/scottt)/[**dbus-vmci**](https://github.com/scottt/dbus-vmci) |DBus patched to add VMCI (VMware Communication Interface) transport support|
+2|[@heronyang](https://github.com/heronyang)/[**smiley**](https://github.com/heronyang/smiley) |A C-version program for Stanford Keral|
+2|[@buganini](https://github.com/buganini)/[**brackets**](https://github.com/buganini/brackets) |help to write parallelized scripts|
+2|[@Hom-Wang](https://github.com/Hom-Wang)/[**C-Language**](https://github.com/Hom-Wang/C-Language) ||
+2|[@fourdollars](https://github.com/fourdollars)/[**bse**](https://github.com/fourdollars/bse) |Build System Example|
+2|[@tjwei](https://github.com/tjwei)/[**acer-stream-minimal-kernel**](https://github.com/tjwei/acer-stream-minimal-kernel) ||
+2|[@cooldavid](https://github.com/cooldavid)/[**jme**](https://github.com/cooldavid/jme) |JMicron Ethernet driver for Linux|[:arrow_upper_right:](http://bbs.cooldavid.org/git/?p=jme.git)
+2|[@Neson](https://github.com/Neson)/[**QtReversi**](https://github.com/Neson/QtReversi) |黑白棋遊戲|
+2|[@buganini](https://github.com/buganini)/[**termim**](https://github.com/buganini/termim) |IM in terminal|
+2|[@chiehmin](https://github.com/chiehmin)/[**til**](https://github.com/chiehmin/til) |Today I Learned|
+2|[@buganini](https://github.com/buganini)/[**php-bsdconv**](https://github.com/buganini/php-bsdconv) |PHP wrapper for bsdconv|
+2|[@scottt](https://github.com/scottt)/[**cygwin-vmci-sockets**](https://github.com/scottt/cygwin-vmci-sockets) |Cygwin patched with VMCI (VMware Communication Interface) sockets support|
+2|[@kanru](https://github.com/kanru)/[**towel**](https://github.com/kanru/towel) |Towel is aimed to prevent repetitive strain injury (RSI)|
 
 ### <a name="cpp"></a> C++
 

@@ -1,13 +1,23 @@
 {
   "name": "made-in-taiwan",
   "version": "1.0.0",
-  "description": "",
+  "description": "A list of neat projects made in Taiwan",
+  "keywords": [
+    "made",
+    "in",
+    "romania",
+    "a",
+    "list",
+    "of",
+    "cool",
+    "projects"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "made-in": "^1.0.3"
   }
