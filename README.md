@@ -987,8 +987,24 @@
 
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
+1210|[@PkmX](https://github.com/PkmX)/[**lcamera**](https://github.com/PkmX/lcamera) |A camera app using the new camera2 API in Android Lollipop|
+13|[@brianhsu](https://github.com/brianhsu)/[**IRCBalloon**](https://github.com/brianhsu/IRCBalloon) |IRC / Justin.tv Chatroom / Twitch Chatroom popup notification.|
+5|[@misgod](https://github.com/misgod)/[**twculture**](https://github.com/misgod/twculture) |台灣藝文資訊 Android app|[:arrow_upper_right:](https://play.google.com/store/apps/details?id=com.a30corner.twculture)
+5|[@brianhsu](https://github.com/brianhsu)/[**MaidroidPlurk**](https://github.com/brianhsu/MaidroidPlurk) |An Android Plurk Client with Cute Maid|
+3|[@PkmX](https://github.com/PkmX)/[**gyromouse**](https://github.com/PkmX/gyromouse) |Using Android's gyroscope as a mouse on Linux|
+3|[@Plummtw](https://github.com/Plummtw)/[**Astgrail**](https://github.com/Plummtw/Astgrail) |Astgrail|
+3|[@Plummtw](https://github.com/Plummtw)/[**jinrou_Lift**](https://github.com/Plummtw/jinrou_Lift) |jinrou_Lift|
+2|[@brianhsu](https://github.com/brianhsu)/[**FindLost**](https://github.com/brianhsu/FindLost) |Lost & Fond android application.|
+2|[@brianhsu](https://github.com/brianhsu)/[**BeDone**](https://github.com/brianhsu/BeDone) |BeDone -- A GTD TODO management web application.|[:arrow_upper_right:](http://bedone.twbbs.org:8081/)
 
 ### Swift
 
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
+15|[@ambientlight](https://github.com/ambientlight)/[**DispatchTimer**](https://github.com/ambientlight/DispatchTimer) |DispatchTimer is a GCD-based NSTimer analogue that you can also pause/resume and set the finite number of invocations.|
+4|[@ryanchang0827](https://github.com/ryanchang0827)/[**SwiftPlugin-God**](https://github.com/ryanchang0827/SwiftPlugin-God) |For Swift Utils & Tools|
+4|[@Cassiszuoan](https://github.com/Cassiszuoan)/[**PhotoGrabber**](https://github.com/Cassiszuoan/PhotoGrabber) |A simple app grabbing users' photo from instagram based on swift|
+3|[@ghostwolf90](https://github.com/ghostwolf90)/[**LaiQ**](https://github.com/ghostwolf90/LaiQ) ||
+2|[@joehour](https://github.com/joehour)/[**ScratchCard**](https://github.com/joehour/ScratchCard) |A ScratchCard view on iOS(swift)|
+2|[@joehour](https://github.com/joehour)/[**PullRefresh_LoadMore**](https://github.com/joehour/PullRefresh_LoadMore) |A PullRefresh and LoadMore TableView on iOS(swift)|
+2|[@joehour](https://github.com/joehour)/[**JImageLoader**](https://github.com/joehour/JImageLoader) |A asynchronous web image loader with CircleProgressView written in Swift.|
