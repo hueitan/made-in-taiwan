@@ -2,7 +2,7 @@
 
 > A list of neat projects made in Taiwan
 
-> 台灣加油！
+> :flag-tw: 台灣加油！
 
 ## Contents
 
@@ -287,7 +287,7 @@
 2|[@viirya](https://github.com/viirya)/[**min-hash-graph-construct**](https://github.com/viirya/min-hash-graph-construct) |Pre-construct image graph using min hash|
 2|[@shakalaca](https://github.com/shakalaca)/[**PhonePlus**](https://github.com/shakalaca/PhonePlus) ||
 
-### <a name="csharp"></a> C#
+### <a name="csharp"></a> C# #
 
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
@@ -331,6 +331,7 @@
 
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
+2|[@ellisMing](https://github.com/ellisMing)/[**ellis_notes**](https://github.com/ellisMing/ellis_notes) |ellis.wu notes|
 
 ### C
 
@@ -400,11 +401,56 @@
 
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
+150|[@repaper](https://github.com/repaper)/[**gratis**](https://github.com/repaper/gratis) |EPD Source codes and Documentation|
+140|[@kevinlin311tw](https://github.com/kevinlin311tw)/[**caffe-cvprw15**](https://github.com/kevinlin311tw/caffe-cvprw15) |:heart::coffee: Deep Learning of Binary Hash Codes for Fast Image Retrieval (CVPRW15)|
+62|[@kevinlin311tw](https://github.com/kevinlin311tw)/[**Caffe-DeepBinaryCode**](https://github.com/kevinlin311tw/Caffe-DeepBinaryCode) |:crown: Supervised Semantics-preserving Deep Hashing (SSDH)|[:arrow_upper_right:](http://arxiv.org/abs/1507.00101)
+39|[@kevinlin311tw](https://github.com/kevinlin311tw)/[**cvpr16-deepbit**](https://github.com/kevinlin311tw/cvpr16-deepbit) |Learning Compact Binary Descriptors with Unsupervised Deep Neural Networks (CVPR16)|
+15|[@kennethho](https://github.com/kennethho)/[**fp14**](https://github.com/kennethho/fp14) |Functional-style Programming in C++14|
+11|[@aitjcize](https://github.com/aitjcize)/[**QCamber**](https://github.com/aitjcize/QCamber) |Free and open source PCB design viewer written in Qt|
+10|[@ucxpresso](https://github.com/ucxpresso)/[**nano11uxx**](https://github.com/ucxpresso/nano11uxx) |uCXpresso BLE Framework for LPC11U3x (ARM Cortex-M0) |[:arrow_upper_right:](http://www.ucxpresso.net)
+10|[@kevinlin311tw](https://github.com/kevinlin311tw)/[**caffe-augmentation**](https://github.com/kevinlin311tw/caffe-augmentation) |:zap: Caffe real-time data augmentation on-the-fly!!|
+9|[@yocox](https://github.com/yocox)/[**yrp**](https://github.com/yocox/yrp) |Recursive Descent Parser by C++ template|
+6|[@legnaleurc](https://github.com/legnaleurc)/[**junkcode**](https://github.com/legnaleurc/junkcode) |Some useless scripts|[:arrow_upper_right:](http://legnaleurc.blogspot.com/)
+5|[@aitjcize](https://github.com/aitjcize)/[**Qin**](https://github.com/aitjcize/Qin) |Qin is an input method framework for Qt-Embedded.|
+5|[@legnaleurc](https://github.com/legnaleurc)/[**qsnapshot**](https://github.com/legnaleurc/qsnapshot) |A screen capture tool|
+5|[@lnishan](https://github.com/lnishan)/[**vector**](https://github.com/lnishan/vector) |:purple_heart: A supercharged std::vector implementation (minus Allocator)|
+5|[@kennethho](https://github.com/kennethho)/[**console.cpp**](https://github.com/kennethho/console.cpp) |C++ Console Object|
+4|[@legnaleurc](https://github.com/legnaleurc)/[**qbtd**](https://github.com/legnaleurc/qbtd) |Qt-based BitTorrent Daemon|
+4|[@legnaleurc](https://github.com/legnaleurc)/[**khopper**](https://github.com/legnaleurc/khopper) |An audio converter|[:arrow_upper_right:](http://legnaleurc.blogspot.com/search/label/Khopper)
+4|[@lnishan](https://github.com/lnishan)/[**Notebook**](https://github.com/lnishan/Notebook) |:orange_book: A notebook for programming contests|
+4|[@legnaleurc](https://github.com/legnaleurc)/[**komix**](https://github.com/legnaleurc/komix) |A comic viewer with auto scrolling.|[:arrow_upper_right:](http://legnaleurc.blogspot.com/)
+3|[@johnroyer](https://github.com/johnroyer)/[**flickrLinker**](https://github.com/johnroyer/flickrLinker) |flickrLinker|
+3|[@kevinlin311tw](https://github.com/kevinlin311tw)/[**ObjLeft**](https://github.com/kevinlin311tw/ObjLeft) | :handbag: Abandoned object detection for visual surveillance|
+3|[@kennethho](https://github.com/kennethho)/[**finally**](https://github.com/kennethho/finally) |Emulation of *finally* in and using C++11, for fun.|
+3|[@kennethho](https://github.com/kennethho)/[**mvcc11**](https://github.com/kennethho/mvcc11) |A simple header-only Multiversion Concurrency Control (MVCC) implementation in C++11.|
+3|[@aitjcize](https://github.com/aitjcize)/[**govff**](https://github.com/aitjcize/govff) |嘸蝦米翻譯機|
+2|[@ucxpresso](https://github.com/ucxpresso)/[**self_balance_robot**](https://github.com/ucxpresso/self_balance_robot) |A balance robot control by PID algorithm.|
+2|[@shaform](https://github.com/shaform)/[**libfreearray**](https://github.com/shaform/libfreearray) |FreeArray Input Method|
+2|[@kito-cheng](https://github.com/kito-cheng)/[**dmtcp-android**](https://github.com/kito-cheng/dmtcp-android) ||
+2|[@johnroyer](https://github.com/johnroyer)/[**urDiary**](https://github.com/johnroyer/urDiary) ||
+2|[@johnroyer](https://github.com/johnroyer)/[**cmake_demo**](https://github.com/johnroyer/cmake_demo) ||
+2|[@wildskyf](https://github.com/wildskyf)/[**car_racing**](https://github.com/wildskyf/car_racing) |NTNU_CSIE_Final_Project|
+2|[@legnaleurc](https://github.com/legnaleurc)/[**qsnapshot-debian**](https://github.com/legnaleurc/qsnapshot-debian) |Debian package for QSnapshot|
+2|[@legnaleurc](https://github.com/legnaleurc)/[**khopper-pkg-ubuntu**](https://github.com/legnaleurc/khopper-pkg-ubuntu) |Dpkg repository of Khopper on Ubuntu|[:arrow_upper_right:](http://legnaleurc.blogspot.com/search/label/Khopper)
+2|[@kevinlin311tw](https://github.com/kevinlin311tw)/[**caffe-rta-v2**](https://github.com/kevinlin311tw/caffe-rta-v2) ||
+2|[@legnaleurc](https://github.com/legnaleurc)/[**khopper-pkg-debian**](https://github.com/legnaleurc/khopper-pkg-debian) |Dpkg repository of Khopper|[:arrow_upper_right:](http://legnaleurc.blogspot.com/search/label/Khopper)
+2|[@seadog007](https://github.com/seadog007)/[**Google-Code-In**](https://github.com/seadog007/Google-Code-In) ||
+2|[@ericsk](https://github.com/ericsk)/[**moedict-rt**](https://github.com/ericsk/moedict-rt) |讓 Windows Store Apps 能用的教育部國語辭典 WinRT Component|
+2|[@legnaleurc](https://github.com/legnaleurc)/[**qsnapshot-ubuntu**](https://github.com/legnaleurc/qsnapshot-ubuntu) |Ubuntu package for QSnapshot|
 
 ### Go
 
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
+91|[@go-gas](https://github.com/go-gas)/[**gas**](https://github.com/go-gas/gas) |Gas is a web framework writing in go|
+9|[@tihtw](https://github.com/tihtw)/[**go-line-bot**](https://github.com/tihtw/go-line-bot) |Golang Line BOT, not official|
+5|[@dlintw](https://github.com/dlintw)/[**gonetgrep**](https://github.com/dlintw/gonetgrep) |Grep keyword in multiple web pages.  A sample code for golang(Google Go programming language).|
+5|[@dlintw](https://github.com/dlintw)/[**cpp2go**](https://github.com/dlintw/cpp2go) |Show code hint for C/C++ coder converting to Google Go language|
+3|[@dlintw](https://github.com/dlintw)/[**GoRM**](https://github.com/dlintw/GoRM) |Simple ORM-like thingy for Go (wrapper around SQLite3 for now)|[:arrow_upper_right:](http://degutis.org)
+2|[@a2n](https://github.com/a2n)/[**go_logger**](https://github.com/a2n/go_logger) |Go logger wrapper|
+2|[@go-gas](https://github.com/go-gas)/[**config**](https://github.com/go-gas/config) |config manager for go-gas/gas framework|
+2|[@go-gas](https://github.com/go-gas)/[**sessions**](https://github.com/go-gas/sessions) |session manager for go-gas/gas framework|
+2|[@dlintw](https://github.com/dlintw)/[**genseat**](https://github.com/dlintw/genseat) ||
 
 ### Objective-C
 
