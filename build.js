@@ -3,7 +3,7 @@ const madeIn = require('made-in');
 
 madeIn('Taiwan', {
 language: 'Java',
-token : 'ba4762c30eaad71e2371a6fd83fc4cf7afa003df'
+token : ''
 }, (err, data) => {
 console.log(err || data.map(c =>
   c.stargazers_count + '|'
