@@ -25,7 +25,7 @@
 
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
-11233 | [https://github.com/hexojs](hexojs)/[https://github.com/hexojs/hexo](hexo)|A fast, simple & powerful blog framework, powered by Node.js.|[:arrow_upper_right:](http://hexo.io)
+11233 | [@hexojs](https://github.com/hexojs)/[**hexo**](https://github.com/hexojs/hexo)|A fast, simple & powerful blog framework, powered by Node.js.|[:arrow_upper_right:](http://hexo.io)
 3156|[@chentsulin](https://github.com/chentsulin)/[**electron-react-boilerplate**](https://github.com/chentsulin/electron-react-boilerplate) |Live editing development on desktop app|
 2035|[@gsklee](https://github.com/gsklee)/[**ngStorage**](https://github.com/gsklee/ngStorage) |localStorage and sessionStorage done right for AngularJS.|
 684|[@EragonJ](https://github.com/EragonJ)/[**Trip.js**](https://github.com/EragonJ/Trip.js) |Trip.js is a plugin that can help you customize a tutorial trip easily with more flexibilities. ( Based on jQuery )|[:arrow_upper_right:](http://eragonj.github.io/Trip.js/)
