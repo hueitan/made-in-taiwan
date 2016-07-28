@@ -265,6 +265,7 @@
 6|[@wuman](https://github.com/wuman)/[**android-bsf-api**](https://github.com/wuman/android-bsf-api) |Apache Bean Scripting Framework API for Android|[:arrow_upper_right:](http://wuman.github.com/android-bsf-api)
 5|[@shakalaca](https://github.com/shakalaca)/[**LogcatLiveWallpaper**](https://github.com/shakalaca/LogcatLiveWallpaper) |Android LiveWallpaper displays output of logcat|
 4|[@mosil](https://github.com/mosil)/[**Android-Mosil-Sample-NavigationDrawer**](https://github.com/mosil/Android-Mosil-Sample-NavigationDrawer) |Android Navigation Drawer|
+4|[@mitaketw](https://github.com/mitaketw)/[**sms-java**](https://github.com/mitaketw/sms-java) |Mitake SMS library for Java|
 3|[@sih4sing5hong5](https://github.com/sih4sing5hong5)/[**Android_with_JBehave**](https://github.com/sih4sing5hong5/Android_with_JBehave) |Andoird專案jbehave設定|
 3|[@TakumaMochizuki](https://github.com/TakumaMochizuki)/[**CircularProgressImageView**](https://github.com/TakumaMochizuki/CircularProgressImageView) |You can use progress bar to know what progress for anything with image|
 3|[@wuman](https://github.com/wuman)/[**DogFan**](https://github.com/wuman/DogFan) |お父さん扇風機 for Android|
@@ -342,6 +343,7 @@
 275|[@jserv](https://github.com/jserv)/[**amacc**](https://github.com/jserv/amacc) |Small C Compiler generating ELF executable for ARM architecture|
 129|[@jserv](https://github.com/jserv)/[**mini-arm-os**](https://github.com/jserv/mini-arm-os) |Build a minimal multi-tasking OS kernel for ARM from scratch|
 80|[@scottt](https://github.com/scottt)/[**debugbreak**](https://github.com/scottt/debugbreak) |break into the debugger programmatically|
+74|[@hedisdb](https://github.com/hedisdb)/[**hedis**](https://github.com/hedisdb/hedis) |Hedis can retrieve data from **ANY** database directly via Redis|[:arrow_upper_right:](http://hedis.io)
 73|[@Hom-Wang](https://github.com/Hom-Wang)/[**SmartIMU**](https://github.com/Hom-Wang/SmartIMU) |IMU Development Kit，Use STM32F411C、MPU9250、LPS25H|[:arrow_upper_right:](http://kitsprout.logdown.com/posts/565999)
 65|[@jserv](https://github.com/jserv)/[**kernel-in-kernel**](https://github.com/jserv/kernel-in-kernel) |Develop your own OS kernel by reusing Linux infrastructure|
 42|[@jserv](https://github.com/jserv)/[**xv6-x86_64**](https://github.com/jserv/xv6-x86_64) |re-implementation of UNIX v6 in ANSI C for x86_64 SMP|
