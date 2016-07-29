@@ -349,7 +349,7 @@
 65|[@jserv](https://github.com/jserv)/[**kernel-in-kernel**](https://github.com/jserv/kernel-in-kernel) |Develop your own OS kernel by reusing Linux infrastructure|
 42|[@jserv](https://github.com/jserv)/[**xv6-x86_64**](https://github.com/jserv/xv6-x86_64) |re-implementation of UNIX v6 in ANSI C for x86_64 SMP|
 41|[@Hom-Wang](https://github.com/Hom-Wang)/[**Quadcopter**](https://github.com/Hom-Wang/Quadcopter) |101年大學專題－四軸飛行器|[:arrow_upper_right:](http://kitsprout.logdown.com/posts/335296)
-37|[@Thomas-Tsai](https://github.com/Thomas-Tsai)/[**partclone**](https://github.com/Thomas-Tsai/partclone) |  Partclone provides utilities to backup a partition smartly and it is designed for higher compatibility of the file system by using existing library. |
+37|[@Thomas-Tsai](https://github.com/Thomas-Tsai)/[**partclone**](https://github.com/Thomas-Tsai/partclone) |  Partclone provides utilities to backup a partition smartly and it is designed for higher compatibility of the file system by using existing library. | [:arrow_upper_right:](http://partclone.org)
 31|[@buganini](https://github.com/buganini)/[**bsdconv**](https://github.com/buganini/bsdconv) |BSD licensed charset/encoding converter library with more functionalities than libiconv|
 29|[@jserv](https://github.com/jserv)/[**codezero**](https://github.com/jserv/codezero) |Codezero Microkernel|
 23|[@HawxChen](https://github.com/HawxChen)/[**MIT-6.828-Adventure**](https://github.com/HawxChen/MIT-6.828-Adventure) |I love OS. I implement it.|[:arrow_upper_right:](http://hawxchen.blogspot.com)
@@ -1018,8 +1018,8 @@
 
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
-70 | [@stevenshiau](https://github.com/stevenshiau/)/[**Clonezilla**](https://github.com/stevenshiau/clonezilla) | Clonezilla is a partition or disk clone tool similar to Norton Ghost®. |
-19 | [@stevenshiau](https://github.com/stevenshiau/)/[**DRBL**](https://github.com/stevenshiau/drbl) | Diskless Remote Boot in Linux |
+70 | [@stevenshiau](https://github.com/stevenshiau/)/[**Clonezilla**](https://github.com/stevenshiau/clonezilla) | Clonezilla is a partition or disk clone tool similar to Norton Ghost®. | [:arrow_upper_right:](http://clonezilla.org)
+19 | [@stevenshiau](https://github.com/stevenshiau/)/[**DRBL**](https://github.com/stevenshiau/drbl) | Diskless Remote Boot in Linux | [:arrow_upper_right:](http://drbl.org)
 
 ## MIT (made in Taiwan)
 
