@@ -2,7 +2,7 @@
 
 > A list of neat projects made in Taiwan
 
-> :flag-tw: 台灣加油！
+> [:flag-tw:](https://github.com/huei90/made-in-taiwan/issues/5) 台灣加油！
 
 ## Contents
 
