@@ -34,15 +34,18 @@
 356|[@EragonJ](https://github.com/EragonJ)/[**Kaku**](https://github.com/EragonJ/Kaku) |The next generation music client|[:arrow_upper_right:](http://kaku.rocks)
 347|[@timdream](https://github.com/timdream)/[**wordcloud2.js**](https://github.com/timdream/wordcloud2.js) |Tag cloud/Wordle presentation on 2D canvas or HTML|[:arrow_upper_right:](http://timdream.org/wordcloud2.js/)
 337|[@timdream](https://github.com/timdream)/[**wordcloud**](https://github.com/timdream/wordcloud) |HTML5 Word Cloud|[:arrow_upper_right:](http://timdream.org/wordcloud/)
+208|[@comdan66](https://github.com/comdan66)/[**browser_console_qrcode**](https://github.com/comdan66/browser_console_qrcode) |Painting QR Code on the browser Console. 瀏覽器 Console 印出 QR Code.|[:arrow_upper_right:](http://works.ioa.tw/browser_console_qrcode/)
 189|[@chentsulin](https://github.com/chentsulin)/[**koa-graphql**](https://github.com/chentsulin/koa-graphql) |Create a GraphQL HTTP server with Koa.|
 147|[@chentsulin](https://github.com/chentsulin)/[**react-native-counter-ios-android**](https://github.com/chentsulin/react-native-counter-ios-android) |Minimal implement of redux counter example on ReactNative iOS and Android|
 97|[@cfsghost](https://github.com/cfsghost)/[**npk**](https://github.com/cfsghost/npk) |Node.js packaging utility|
 97|[@othree](https://github.com/othree)/[**node-r3**](https://github.com/othree/node-r3) |r3 binding on node.js|[:arrow_upper_right:](https://www.npmjs.org/package/node-r3)
 95|[@cfsghost](https://github.com/cfsghost)/[**lantern**](https://github.com/cfsghost/lantern) |Basic Isomorphic Boilerplate for secondary development|
+95|[@comdan66](https://github.com/comdan66)/[**OA-richman**](https://github.com/comdan66/OA-richman) |這是一個使用 google maps api 製作的大富翁遊戲！|[:arrow_upper_right:](http://works.ioa.tw/OA-richman/)
 94|[@penk](https://github.com/penk)/[**mkxpud**](https://github.com/penk/mkxpud) |Image Generator for xPUD project|[:arrow_upper_right:](http://xpud.org)
 86|[@penk](https://github.com/penk)/[**SlateKit**](https://github.com/penk/SlateKit) |Open Source Tablet UX Building Kit|
 81|[@chitsaou](https://github.com/chitsaou)/[**copy-as-markdown**](https://github.com/chitsaou/copy-as-markdown) |Copying Link, Image and Tab(s) as Markdown Much Easier.|
 59|[@timdream](https://github.com/timdream)/[**jszhuyin**](https://github.com/timdream/jszhuyin) |JS 注音：JavaScript 自動選字注音輸入法；"Smart" Chinese Zhuyin Input Method in JavaScript.|[:arrow_upper_right:](http://timdream.org/jszhuyin/)
+57|[@comdan66](https://github.com/comdan66)/[**OA-material**](https://github.com/comdan66/OA-material) |Material ui design for the web|[:arrow_upper_right:](http://works.ioa.tw/OA-material/)
 50|[@chentsulin](https://github.com/chentsulin)/[**generator-redux-app**](https://github.com/chentsulin/generator-redux-app) |Scaffold out a redux app|
 48|[@chentsulin](https://github.com/chentsulin)/[**redux-boilerplate**](https://github.com/chentsulin/redux-boilerplate) |Another boilerplate for personal usage|
 48|[@timdream](https://github.com/timdream)/[**wordfreq**](https://github.com/timdream/wordfreq) |Text corpus calculation in Javascript. Supports Chinese, English.|[:arrow_upper_right:](http://timdream.org/wordfreq/)
