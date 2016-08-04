@@ -2,7 +2,8 @@
 
 > A list of neat projects made in Taiwan
 
-> [:flag-tw:](https://github.com/huei90/made-in-taiwan/issues/5) 台灣加油！
+> 🇹🇼 台灣加油！
+
 > [Taiwan Developers on Github](http://c9s.github.io/github-taiwan/)
 
 ## Contents
