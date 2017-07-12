@@ -583,6 +583,7 @@
 
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
+180|[@suffixbig](https://github.com/suffixbig)/[**PhpDataDictionaryTool**](https://github.com/suffixbig/PhpDataDictionaryTool) |mysql數據庫字典生成工具 PHP版 (http://phpmytool.com)
 170|[@fukuball](https://github.com/fukuball)/[**jieba-php**](https://github.com/fukuball/jieba-php) |"結巴"中文分詞：做最好的 PHP 中文分詞、中文斷詞組件。 / "Jieba" (Chinese for "to stutter") Chinese text segmentation: built to be the best PHP Chinese word segmentation module.|[:arrow_upper_right:](http://jieba-php.fukuball.com)
 118|[@wikireader](https://github.com/wikireader)/[**wikireader**](https://github.com/wikireader/wikireader) |Official Source code for the WikiReader (by Openmoko)|[:arrow_upper_right:](http://thewikireader.com)
 91|[@comdan66](https://github.com/comdan66)/[**weather**](https://github.com/comdan66/weather) |Taiwan's  Weather Maps! 想查詢每個地方的天氣嗎！？藉由 Google Maps API 的地圖服務，以及中央氣象局網站的天氣預報，讓你快速輕鬆的查詢台灣 368 個鄉鎮的天氣概況！|[:arrow_upper_right:](http://works.ioa.tw/weather/)
