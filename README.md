@@ -805,7 +805,9 @@
 2|[@a0726h77](https://github.com/a0726h77)/[**ipscan**](https://github.com/a0726h77/ipscan) |scan ip and lookup hostname (in python and gtk)|
 2|[@imrehg](https://github.com/imrehg)/[**thinliquidfilm2**](https://github.com/imrehg/thinliquidfilm2) |Fork of thinliquidfilm, reviving its developement.|
 2|[@fygrave](https://github.com/fygrave)/[**httpsh**](https://github.com/fygrave/httpsh) |Shell over HTTP|
-2|[@wurmen](https://github.com/wurmen)/[**DEA**](https://github.com/wurmen/DEA) |最清楚完整的資料包絡分析(Data Envelopment Analysis, DEA)演算法及建模介紹，以及 DEA 擴充函式 (The most complete and clear documentation for Data-Envelopment-Analysis, DEA, algorithms and modeling)|
+2|[@wurmen](https://github.com/wurmen)/[**DEA**](https://github.com/wurmen/DEA) |
+* 資料包絡分析(Data Envelopment Analysis, DEA)演算法及建模介紹，以及開發 DEA 擴充函式 
+* The most complete and clear documentation for Data-Envelopment-Analysis, DEA, algorithms and modeling)|
 
 ### Ruby
 
