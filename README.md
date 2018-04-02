@@ -732,6 +732,7 @@
 6|[@orangetw](https://github.com/orangetw)/[**Vulnerable-Django**](https://github.com/orangetw/Vulnerable-Django) ||
 6|[@tzangms](https://github.com/tzangms)/[**PyConTW**](https://github.com/tzangms/PyConTW) |website of PyCon TW|
 6|[@moskytw](https://github.com/moskytw)/[**cython-lab**](https://github.com/moskytw/cython-lab) ||
+6|[@wurmen](https://github.com/wurmen)/[**Gurobi-Python**](https://github.com/wurmen/Gurobi-Python) |最清楚完整的Gurobi Python Interface 建模介紹，以及最佳化問題的數學規劃建模 (The Gurobi Python Interface tutorials and optimization problems modeling)|
 5|[@aminzai](https://github.com/aminzai)/[**AminzaiPlurkBot**](https://github.com/aminzai/AminzaiPlurkBot) |That can a lot of rss source in the same time, and can repost to plurk.|
 5|[@tzangms](https://github.com/tzangms)/[**django-project-template**](https://github.com/tzangms/django-project-template) |This is the django project template based on my prefer.|
 5|[@hychen](https://github.com/hychen)/[**octopress-admin**](https://github.com/hychen/octopress-admin) |octopress blog management script|
