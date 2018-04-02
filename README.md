@@ -734,6 +734,7 @@
 6|[@orangetw](https://github.com/orangetw)/[**Vulnerable-Django**](https://github.com/orangetw/Vulnerable-Django) ||
 6|[@tzangms](https://github.com/tzangms)/[**PyConTW**](https://github.com/tzangms/PyConTW) |website of PyCon TW|
 6|[@moskytw](https://github.com/moskytw)/[**cython-lab**](https://github.com/moskytw/cython-lab) ||
+6|[@wurmen](https://github.com/wurmen)/[**Gurobi-Python**](https://github.com/wurmen/Gurobi-Python) |最清楚完整的Gurobi Python Interface 建模介紹，以及最佳化問題的數學規劃建模 (The Gurobi Python Interface tutorials and optimization problems modeling)|
 5|[@aminzai](https://github.com/aminzai)/[**AminzaiPlurkBot**](https://github.com/aminzai/AminzaiPlurkBot) |That can a lot of rss source in the same time, and can repost to plurk.|
 5|[@tzangms](https://github.com/tzangms)/[**django-project-template**](https://github.com/tzangms/django-project-template) |This is the django project template based on my prefer.|
 5|[@hychen](https://github.com/hychen)/[**octopress-admin**](https://github.com/hychen/octopress-admin) |octopress blog management script|
@@ -806,6 +807,7 @@
 2|[@a0726h77](https://github.com/a0726h77)/[**ipscan**](https://github.com/a0726h77/ipscan) |scan ip and lookup hostname (in python and gtk)|
 2|[@imrehg](https://github.com/imrehg)/[**thinliquidfilm2**](https://github.com/imrehg/thinliquidfilm2) |Fork of thinliquidfilm, reviving its developement.|
 2|[@fygrave](https://github.com/fygrave)/[**httpsh**](https://github.com/fygrave/httpsh) |Shell over HTTP|
+2|[@wurmen](https://github.com/wurmen)/[**DEA**](https://github.com/wurmen/DEA) |最清楚完整的資料包絡分析(Data Envelopment Analysis, DEA)演算法及建模介紹，以及開發 DEA 擴充函式 (The most complete and clear documentation for Data-Envelopment-Analysis, DEA, algorithms and modeling)|
 
 ### Ruby
 
