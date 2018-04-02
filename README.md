@@ -34,6 +34,7 @@
 1221|[@AllenFang](https://github.com/AllenFang)/[**react-bootstrap-table**](https://github.com/AllenFang/react-bootstrap-table) |It's a react table for bootstrap|[:arrow_upper_right:](http://allenfang.github.io/react-bootstrap-table/)
 684|[@EragonJ](https://github.com/EragonJ)/[**Trip.js**](https://github.com/EragonJ/Trip.js) |Trip.js is a plugin that can help you customize a tutorial trip easily with more flexibilities. ( Based on jQuery )|[:arrow_upper_right:](http://eragonj.github.io/Trip.js/)
 662|[@vinta](https://github.com/vinta)/[**pangu.js**](https://github.com/vinta/pangu.js) |為什麼你們就是不能加個空格呢？|[:arrow_upper_right:](https://chrome.google.com/webstore/detail/paphcfdffjnbcgkokihcdjliihicmbpd)
+656|[@ByronHsu](https://github.com/ByronHsu)/[**life-commit**](https://github.com/ByronHsu/life-commit) |🏃📆 Life as a git. Commit on your life.|[:arrow_upper_right:](https://github.com/ByronHsu/life-commit)
 356|[@EragonJ](https://github.com/EragonJ)/[**Kaku**](https://github.com/EragonJ/Kaku) |The next generation music client|[:arrow_upper_right:](http://kaku.rocks)
 347|[@timdream](https://github.com/timdream)/[**wordcloud2.js**](https://github.com/timdream/wordcloud2.js) |Tag cloud/Wordle presentation on 2D canvas or HTML|[:arrow_upper_right:](http://timdream.org/wordcloud2.js/)
 337|[@timdream](https://github.com/timdream)/[**wordcloud**](https://github.com/timdream/wordcloud) |HTML5 Word Cloud|[:arrow_upper_right:](http://timdream.org/wordcloud/)
