@@ -64,6 +64,7 @@
 36|[@doggy8088](https://github.com/doggy8088)/[**ng-kp-api-sample**](https://github.com/doggy8088/ng-kp-api-sample) |本專案依據「野生柯P官網」的 API 使用範例，修改成 AngularJS 版本|[:arrow_upper_right:](http://unlimited.kptaipei.tw/)
 34|[@chentsulin](https://github.com/chentsulin)/[**webpack-target-electron-renderer**](https://github.com/chentsulin/webpack-target-electron-renderer) |webpack target function for electron renderer|
 33|[@timdream](https://github.com/timdream)/[**html5-file-upload**](https://github.com/timdream/html5-file-upload) |Upload files using interfaces supplied by HTML5 browsers, instead of SWFUpload or IFRAME.|[:arrow_upper_right:](http://timdream.org/html5-file-upload/)
+31 | [@kevinbird61](https://github.com/kevinbird61)/[**docogen**](https://github.com/toolbuddy/docoGen) | 從文件格式（json,md）轉換成 LaTeX 格式的 pdf 做輸出 ([簡易說明](https://slides.com/kevinbird61/docogen#/)) | [:arrow_upper_right:](https://github.com/toolbuddy/docoGen/wiki), [demo](https://github.com/toolbuddy/docoGen/blob/master/test/dest/docogen-latex.pdf),[npm package](https://www.npmjs.com/package/docogen)
 29|[@chentsulin](https://github.com/chentsulin)/[**redux-intro**](https://github.com/chentsulin/redux-intro) |http://chentsulin.github.io/redux-intro|
 26|[@timdream](https://github.com/timdream)/[**simworker**](https://github.com/timdream/simworker) |Simulated Web Workers|[:arrow_upper_right:](http://blog.timc.idv.tw/posts/simworker/)
 26|[@zhusee2](https://github.com/zhusee2)/[**bumbler-to-speech**](https://github.com/zhusee2/bumbler-to-speech) |An experiment of Audio Sprites|[:arrow_upper_right:](http://zhusee2.github.io/bumbler-to-speech/)
@@ -122,6 +123,8 @@
 7|[@othree](https://github.com/othree)/[**f2e-courses**](https://github.com/othree/f2e-courses) ||
 7|[@chilijung](https://github.com/chilijung)/[**dbox-cli**](https://github.com/chilijung/dbox-cli) |A dropbox cli interface written in nodejs|
 7|[@chentsulin](https://github.com/chentsulin)/[**koa-bearer-token**](https://github.com/chentsulin/koa-bearer-token) |Bearer token parser middleware for koa|
+6 | [@yungshenglu](https://github.com/yungshenglu)/[**docogen-html**](https://github.com/toolbuddy/docoGen-WebUI) | 配合 docogen 的模組，主要從文件格式 (json,md) 轉換成 html 網頁格式 ([簡易說明](https://slides.com/kevinbird61/docogen#/)) |  [:arrow_upper_right:](https://github.com/toolbuddy/docoGen-WebUI/wiki), [demo](https://toolbuddy.github.io/docoGen-wiki/web/)
+6 | [@kevinbird61](https://github.com/kevinbird61)/[**papogen**](https://github.com/toolbuddy/papoGen) | 從文件格式(主要以 markdown 為主, 另外支援特定格式的 json,yaml) **快速生成** html ([簡易說明](https://toolbuddy.github.io/2017/12/27/papoGenRelease0.0.16/) |  [:arrow_upper_right:](https://toolbuddy.github.io/2017/12/18/papoGen/), [demo(markdown)](https://toolbuddy.github.io/papoGen/md/),  [demo(json,yaml)](https://toolbuddy.github.io/papoGen/),[npm package](https://www.npmjs.com/package/papogen) 
 6|[@timdream](https://github.com/timdream)/[**hmm**](https://github.com/timdream/hmm) |A simple Hidden Markov Model implementation|[:arrow_upper_right:](https://www.npmjs.com/package/hmm)
 6|[@gsklee](https://github.com/gsklee)/[**angular-demo-formbuilder**](https://github.com/gsklee/angular-demo-formbuilder) ||
 6|[@cfsghost](https://github.com/cfsghost)/[**frex.js**](https://github.com/cfsghost/frex.js) |A framework for creating modern web applications|
@@ -393,6 +396,7 @@
 3|[@kanru](https://github.com/kanru)/[**chinese-type-practice**](https://github.com/kanru/chinese-type-practice) ||
 3|[@Hom-Wang](https://github.com/Hom-Wang)/[**SerialDebugAssistant**](https://github.com/Hom-Wang/SerialDebugAssistant) |QT Serial Debug Assistant|
 3|[@jserv](https://github.com/jserv)/[**scalable-font-editor**](https://github.com/jserv/scalable-font-editor) |scale font editor, which produces the font for embedded environments|
+3 | [@kevinbird61](https://github.com/kevinbird61)/[**visual-ll**](https://github.com/toolbuddy/visual-ll) | Using graphviz to enable visualization on linked-list implementation. | [:arrow_upper_right:](https://toolbuddy.github.io/2018/01/01/visual-ll/)
 2|[@buganini](https://github.com/buganini)/[**bsdconv-opencc**](https://github.com/buganini/bsdconv-opencc) |OpenCC inter-conversion module for bsdconv|
 2|[@cleaton](https://github.com/cleaton)/[**acer_kernel**](https://github.com/cleaton/acer_kernel) ||
 2|[@scottt](https://github.com/scottt)/[**python-vmci**](https://github.com/scottt/python-vmci) |Python's socket patched with VMCI (VMware communication interface) support|
