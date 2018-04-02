@@ -703,6 +703,7 @@
 89|[@tzangms](https://github.com/tzangms)/[**iloveck101**](https://github.com/tzangms/iloveck101) |我愛卡提諾|
 81|[@PaulinePro](https://github.com/PaulinePro)/[**Facebot**](https://github.com/PaulinePro/Facebot) |Powerful unofficial facebook api|
 50|[@toomore](https://github.com/toomore)/[**goristock**](https://github.com/toomore/goristock) |📈 goristock 台灣股市分析機器人 in Google App Engine. 包含其他版本，請參考分支！ #stock #twse #gae #appengine|[:arrow_upper_right:](http://goristock.appspot.com/)
+39|[@TGmeetup](https://github.com/TGmeetup)/[**TGmeetup**](https://github.com/TGmeetup/TGmeetup) | A collection set of technical groups' information (一個搜集與整合技術類社群的專案，讓大家取得社群資訊以及社群的活動資訊。)|
 34|[@littleq0903](https://github.com/littleq0903)/[**gcloud-zsh-completion**](https://github.com/littleq0903/gcloud-zsh-completion) |Z Shell auto completion for Google Cloud SDK|
 32|[@littleq0903](https://github.com/littleq0903)/[**spritz-cmd**](https://github.com/littleq0903/spritz-cmd) |The command-line version of implementation of a cool reading tool, Spritz.|
 32|[@tzangms](https://github.com/tzangms)/[**python-websocket-example**](https://github.com/tzangms/python-websocket-example) |Simple python websocket example with Flask, gevent, gevent-websocket|
