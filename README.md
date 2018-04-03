@@ -23,6 +23,7 @@
 - [Scala](#scala)
 - [Swift](#swift)
 - [Shell](#shell)
+- [R](#R)
 
 ### JavaScript
 
@@ -1035,6 +1036,16 @@
 --- | --- | --- | ---
 70 | [@stevenshiau](https://github.com/stevenshiau/)/[**Clonezilla**](https://github.com/stevenshiau/clonezilla) | Clonezilla is a partition or disk clone tool similar to Norton Ghost®. | [:arrow_upper_right:](http://clonezilla.org)
 19 | [@stevenshiau](https://github.com/stevenshiau/)/[**DRBL**](https://github.com/stevenshiau/drbl) | Diskless Remote Boot in Linux | [:arrow_upper_right:](http://drbl.org)
+
+
+### R
+
+:star2: | Name | Description | 🌍
+--- | --- | --- | ---
+10 | [@skydome20](https://github.com/skydome20)/[**R-Notes**](https://github.com/skydome20/R-Notes) | Notes for using R language to do data mining and machine learning | 
+10 | [@skydome20](https://github.com/skydome20)/[**crawler_CIA_CREST**](https://github.com/skydome20/crawler_CIA_CREST) | R-crawler for CIA website (CREST) | 
+
+
 
 ## MIT (made in Taiwan)
 
