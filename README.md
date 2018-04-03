@@ -700,6 +700,7 @@
 
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
+6809|[@eliangcs](https://github.com/eliangcs)/[**http-prompt**](https://github.com/eliangcs/http-prompt)|HTTPie + prompt_toolkit = an interactive command-line HTTP client featuring autocomplete and syntax highlighting|[:arrow_upper_right:](http://http-prompt.com/)
 363|[@cataska](https://github.com/cataska)/[**programming-collective-intelligence-code**](https://github.com/cataska/programming-collective-intelligence-code) |Examples from Programming Collective Intelligence|
 185|[@toomore](https://github.com/toomore)/[**grs**](https://github.com/toomore/grs) |📈 台灣上市上櫃股票價格擷取（Fetch Taiwan Stock Exchange data）含即時盤、台灣時間轉換、開休市判斷。|[:arrow_upper_right:](http://pypi.python.org/pypi/grs)
 144|[@moskytw](https://github.com/moskytw)/[**zipcodetw**](https://github.com/moskytw/zipcodetw) |Find Taiwan ZIP code by address fuzzily.|
