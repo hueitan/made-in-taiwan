@@ -23,7 +23,7 @@
 - [Scala](#scala)
 - [Swift](#swift)
 - [Shell](#shell)
-- [R](#R)
+- [R](#r)
 
 ### JavaScript
 
