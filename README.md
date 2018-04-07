@@ -354,10 +354,12 @@
 347|[@jserv](https://github.com/jserv)/[**facebooc**](https://github.com/jserv/facebooc) |Yet another Facebook clone written in C|
 275|[@jserv](https://github.com/jserv)/[**amacc**](https://github.com/jserv/amacc) |Small C Compiler generating ELF executable for ARM architecture|
 129|[@jserv](https://github.com/jserv)/[**mini-arm-os**](https://github.com/jserv/mini-arm-os) |Build a minimal multi-tasking OS kernel for ARM from scratch|
+82|[@jserv](https://github.com/jserv)/[**full-stack-hello**](https://github.com/jserv/full-stack-hello) |minimal instruction set and assembler/compiler for "Hello World" execution|
 80|[@scottt](https://github.com/scottt)/[**debugbreak**](https://github.com/scottt/debugbreak) |break into the debugger programmatically|
 74|[@hedisdb](https://github.com/hedisdb)/[**hedis**](https://github.com/hedisdb/hedis) |Hedis can retrieve data from **ANY** database directly via Redis|[:arrow_upper_right:](http://hedis.io)
 73|[@Hom-Wang](https://github.com/Hom-Wang)/[**SmartIMU**](https://github.com/Hom-Wang/SmartIMU) |IMU Development Kit，Use STM32F411C、MPU9250、LPS25H|[:arrow_upper_right:](http://kitsprout.logdown.com/posts/565999)
 65|[@jserv](https://github.com/jserv)/[**kernel-in-kernel**](https://github.com/jserv/kernel-in-kernel) |Develop your own OS kernel by reusing Linux infrastructure|
+55|[@jserv](https://github.com/jserv)/[**min-dl**](https://github.com/jserv/min-dl) |minimal dynamic linker implementation for ELF|
 42|[@jserv](https://github.com/jserv)/[**xv6-x86_64**](https://github.com/jserv/xv6-x86_64) |re-implementation of UNIX v6 in ANSI C for x86_64 SMP|
 41|[@Hom-Wang](https://github.com/Hom-Wang)/[**Quadcopter**](https://github.com/Hom-Wang/Quadcopter) |101年大學專題－四軸飛行器|[:arrow_upper_right:](http://kitsprout.logdown.com/posts/335296)
 37|[@Thomas-Tsai](https://github.com/Thomas-Tsai)/[**partclone**](https://github.com/Thomas-Tsai/partclone) |  Partclone provides utilities to backup a partition smartly and it is designed for higher compatibility of the file system by using existing library. | [:arrow_upper_right:](http://partclone.org)
