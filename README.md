@@ -363,6 +363,7 @@
 37|[@Thomas-Tsai](https://github.com/Thomas-Tsai)/[**partclone**](https://github.com/Thomas-Tsai/partclone) |  Partclone provides utilities to backup a partition smartly and it is designed for higher compatibility of the file system by using existing library. | [:arrow_upper_right:](http://partclone.org)
 31|[@buganini](https://github.com/buganini)/[**bsdconv**](https://github.com/buganini/bsdconv) |BSD licensed charset/encoding converter library with more functionalities than libiconv|
 29|[@jserv](https://github.com/jserv)/[**codezero**](https://github.com/jserv/codezero) |Codezero Microkernel|
+24|[@Cuju-ft](https://github.com/Cuju-ft)/[**Cuju**](https://github.com/Cuju-ft/Cuju) |An Open Source Project for Virtualization-Based Fault Tolerance|[:arrow_upper_right:](https://cuju-ft.github.io/cuju-web/home.html)
 23|[@HawxChen](https://github.com/HawxChen)/[**MIT-6.828-Adventure**](https://github.com/HawxChen/MIT-6.828-Adventure) |I love OS. I implement it.|[:arrow_upper_right:](http://hawxchen.blogspot.com)
 17|[@browny](https://github.com/browny)/[**hand-tracking**](https://github.com/browny/hand-tracking) |A simple multiple hands tracking implementation based on OpenCV library|
 17|[@scottt](https://github.com/scottt)/[**openssl-android**](https://github.com/scottt/openssl-android) |Official Android OpenSSL patched to build as an external project with the Android NDK|
