@@ -393,6 +393,7 @@
 4|[@olvaffe](https://github.com/olvaffe)/[**mesa**](https://github.com/olvaffe/mesa) |http://cgit.freedesktop.org/mesa/mesa/|
 4|[@buganini](https://github.com/buganini)/[**chiconv**](https://github.com/buganini/chiconv) |Auto chinese encoding converter|
 4|[@tjwei](https://github.com/tjwei)/[**KindleChewing**](https://github.com/tjwei/KindleChewing) |Chewing Chinese Input Method for Kindle DX|
+3|[@coldfunction](https://github.com/coldfunction)/[**qCUDA**](https://github.com/coldfunction/qCUDA) |A first opensource project for GPGPU virtualization in Taiwan|
 3|[@cleaton](https://github.com/cleaton)/[**android_kernel_samsung_smdk4210**](https://github.com/cleaton/android_kernel_samsung_smdk4210) |Kernel for Samsung SMDK4210 Boards|
 3|[@kanru](https://github.com/kanru)/[**chinese-type-practice**](https://github.com/kanru/chinese-type-practice) ||
 3|[@Hom-Wang](https://github.com/Hom-Wang)/[**SerialDebugAssistant**](https://github.com/Hom-Wang/SerialDebugAssistant) |QT Serial Debug Assistant|
