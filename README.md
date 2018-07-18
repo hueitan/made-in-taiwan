@@ -16,6 +16,7 @@
 - [C](#c)
 - [C++](#cpp)
 - [Go](#go)
+- [Rust](#rust)
 - [Objective-C](#objective-c)
 - [PHP](#php)
 - [Python](#python)
