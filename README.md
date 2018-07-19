@@ -16,11 +16,11 @@
 - [C](#c)
 - [C++](#cpp)
 - [Go](#go)
-- [Rust](#rust)
 - [Objective-C](#objective-c)
 - [PHP](#php)
 - [Python](#python)
 - [Ruby](#ruby)
+- [Rust](#rust)
 - [Scala](#scala)
 - [Swift](#swift)
 - [Shell](#shell)
@@ -474,12 +474,6 @@
 [![💫][sessions-shield]][sessions]|[@go-gas](https://github.com/go-gas)/[**sessions**](https://github.com/go-gas/sessions) |session manager for go-gas/gas framework|
 [![💫][genseat-shield]][genseat]|[@dlintw](https://github.com/dlintw)/[**genseat**](https://github.com/dlintw/genseat) ||
 [![💫][fpGo-shield]][fpGo]|[@TeaEntityLab](https://github.com/TeaEntityLab)/[**fpGo**](https://github.com/TeaEntityLab/fpGo) |Monad, Functional Programming features for Golang.|[:arrow_upper_right:](https://github.com/TeaEntityLab/fpGo)
-
-### Rust
-
-:star2: Stargazers | Name | Description | 🌍 
---- | --- | --- | --- 
-[![💫][fpRust-shield]][fpRust]|[@TeaEntityLab](https://github.com/TeaEntityLab)/[**fpRust**](https://github.com/TeaEntityLab/fpRust) |Monad, Functional Programming features for Rust.|[:arrow_upper_right:](https://github.com/TeaEntityLab/fpRust)
 
 ### Objective-C
 
@@ -1015,6 +1009,12 @@
 [![💫][chh_moretext-shield]][chh_moretext]|[@chinghanho](https://github.com/chinghanho)/[**chh_moretext**](https://github.com/chinghanho/chh_moretext) |Generate random Traditional Chinese text from Moretext API. 透過 Handlino 的 Moretext API 產生隨機中文句子或段落。|
 [![💫][iLogbot-shield]][iLogbot]|[@dannvix](https://github.com/dannvix)/[**iLogbot**](https://github.com/dannvix/iLogbot) |interactive Logbot featuring a web-based client for mobile|
 [![💫][d-veryxd-shield]][d-veryxd]|[@xdite](https://github.com/xdite)/[**d-veryxd**](https://github.com/xdite/d-veryxd) ||[:arrow_upper_right:](http://d.veryxd.net)
+
+### Rust
+
+:star2: Stargazers | Name | Description | 🌍 
+--- | --- | --- | --- 
+[![💫][fpRust-shield]][fpRust]|[@TeaEntityLab](https://github.com/TeaEntityLab)/[**fpRust**](https://github.com/TeaEntityLab/fpRust) |Monad, Functional Programming features for Rust.|[:arrow_upper_right:](https://github.com/TeaEntityLab/fpRust)
 
 ### Scala
 
