@@ -20,6 +20,7 @@
 - [PHP](#php)
 - [Python](#python)
 - [Ruby](#ruby)
+- [Rust](#rust)
 - [Scala](#scala)
 - [Swift](#swift)
 - [Shell](#shell)
@@ -234,6 +235,7 @@
 [![💫][geojson-gmap-shield]][geojson-gmap]|[@chilijung](https://github.com/chilijung)/[**geojson-gmap**](https://github.com/chilijung/geojson-gmap) |geojson rendering in google map.|
 [![💫][jsdx-ofono-shield]][jsdx-ofono]|[@cfsghost](https://github.com/cfsghost)/[**jsdx-ofono**](https://github.com/cfsghost/jsdx-ofono) |oFono API to support SMS/VoiceCalling/SIM and Modem Management|
 [![💫][web-speech-shield]][web-speech]|[@zhusee2](https://github.com/zhusee2)/[**web-speech**](https://github.com/zhusee2/web-speech) ||[:arrow_upper_right:](http://zhusee2.github.io/web-speech/)
+[![💫][fpEs-shield]][fpEs]|[@TeaEntityLab](https://github.com/TeaEntityLab)/[**fpEs**](https://github.com/TeaEntityLab/fpEs) |A small library provides simple usages of basic FP & pattern-matching/sumtype & MonadIO/Rx & Optional for Javascript.|[:arrow_upper_right:](https://github.com/TeaEntityLab/fpEs)
 
 ### Java
 
@@ -471,6 +473,7 @@
 [![💫][config-shield]][config]|[@go-gas](https://github.com/go-gas)/[**config**](https://github.com/go-gas/config) |config manager for go-gas/gas framework|
 [![💫][sessions-shield]][sessions]|[@go-gas](https://github.com/go-gas)/[**sessions**](https://github.com/go-gas/sessions) |session manager for go-gas/gas framework|
 [![💫][genseat-shield]][genseat]|[@dlintw](https://github.com/dlintw)/[**genseat**](https://github.com/dlintw/genseat) ||
+[![💫][fpGo-shield]][fpGo]|[@TeaEntityLab](https://github.com/TeaEntityLab)/[**fpGo**](https://github.com/TeaEntityLab/fpGo) |Monad, Functional Programming features for Golang.|[:arrow_upper_right:](https://github.com/TeaEntityLab/fpGo)
 
 ### Objective-C
 
@@ -1006,6 +1009,12 @@
 [![💫][chh_moretext-shield]][chh_moretext]|[@chinghanho](https://github.com/chinghanho)/[**chh_moretext**](https://github.com/chinghanho/chh_moretext) |Generate random Traditional Chinese text from Moretext API. 透過 Handlino 的 Moretext API 產生隨機中文句子或段落。|
 [![💫][iLogbot-shield]][iLogbot]|[@dannvix](https://github.com/dannvix)/[**iLogbot**](https://github.com/dannvix/iLogbot) |interactive Logbot featuring a web-based client for mobile|
 [![💫][d-veryxd-shield]][d-veryxd]|[@xdite](https://github.com/xdite)/[**d-veryxd**](https://github.com/xdite/d-veryxd) ||[:arrow_upper_right:](http://d.veryxd.net)
+
+### Rust
+
+:star2: Stargazers | Name | Description | 🌍 
+--- | --- | --- | --- 
+[![💫][fpRust-shield]][fpRust]|[@TeaEntityLab](https://github.com/TeaEntityLab)/[**fpRust**](https://github.com/TeaEntityLab/fpRust) |Monad, Functional Programming features for Rust.|[:arrow_upper_right:](https://github.com/TeaEntityLab/fpRust)
 
 ### Scala
 
