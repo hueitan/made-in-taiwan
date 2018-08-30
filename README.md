@@ -251,6 +251,9 @@
 [![💫][learning_gradle_android-shield]][learning_gradle_android]|[@shakalaca](https://github.com/shakalaca)/[**learning_gradle_android**](https://github.com/shakalaca/learning_gradle_android) |Learning how to build gradle enabled android project|
 [![💫][Android-MarqueeView-shield]][Android-MarqueeView]|[@ened](https://github.com/ened)/[**Android-MarqueeView**](https://github.com/ened/Android-MarqueeView) |Custom MarqueeView container|
 [![💫][Movie-lol-android-shield]][Movie-lol-android]|[@enginebai](https://github.com/enginebai)/[**Movie-lol-android**](https://github.com/enginebai/Movie-lol-android) |Movie information & comment android app|
+[![💫][Universal-CollapsingTabLayout-shield]][Universal-CollapsingTabLayout]|[@hearsilent](https://github.com/hearsilent)/[**Universal-CollapsingTabLayout**](https://github.com/hearsilent/Universal-CollapsingTabLayout) |CollapsingToolbarLayout with TabLayout|[:arrow_upper_right:](https://play.google.com/store/apps/details?id=hearsilent.universalcollapsingtoolbarlayouttablayoutexample)
+[![💫][PixelSlide-shield]][PixelSlide]|[@hearsilent](https://github.com/hearsilent)/[**PixelSlide**](https://github.com/hearsilent/PixelSlide) |A up/down expand arrow anim sample likes Pixel Launcher.|
+[![💫][AmazingAvatar-shield]][AmazingAvatar]|[@hearsilent](https://github.com/hearsilent)/[**AmazingAvatar**](https://github.com/hearsilent/AmazingAvatar) |An android amazing avatar anim in CollapsingToolbarLayout.|[:arrow_upper_right:](https://play.google.com/store/apps/details?id=hearsilent.amazingavatar)
 [![💫][AndroidImageLoader-shield]][AndroidImageLoader]|[@wuman](https://github.com/wuman)/[**AndroidImageLoader**](https://github.com/wuman/AndroidImageLoader) |Andorid library that loads images asynchronously into cache using a thread pool|[:arrow_upper_right:](http://wuman.github.com/AndroidImageLoader/)
 [![💫][UniversalAndroot-shield]][UniversalAndroot]|[@shakalaca](https://github.com/shakalaca)/[**UniversalAndroot**](https://github.com/shakalaca/UniversalAndroot) |One click and your Android device is rooted ! |[:arrow_upper_right:](http://bit.ly/aZXvAI)
 [![💫][TwoLevelLruCache-shield]][TwoLevelLruCache]|[@wuman](https://github.com/wuman)/[**TwoLevelLruCache**](https://github.com/wuman/TwoLevelLruCache) |A two-level LRU cache composed of a smaller L1 cache in memory and a larger L2 cache on disk|[:arrow_upper_right:](http://wuman.github.com/TwoLevelLruCache)
@@ -1497,6 +1500,12 @@
 [Android-MarqueeView-shield]: https://img.shields.io/github/stars/ened/Android-MarqueeView.svg?style=flat-square&label=Stars&maxAge=604800
 [Movie-lol-android]: https://github.com/enginebai/Movie-lol-android
 [Movie-lol-android-shield]: https://img.shields.io/github/stars/enginebai/Movie-lol-android.svg?style=flat-square&label=Stars&maxAge=604800
+[Universal-CollapsingTabLayout]: https://github.com/hearsilent/Universal-CollapsingTabLayout
+[Universal-CollapsingTabLayout-shield]: https://img.shields.io/github/stars/hearsilent/Universal-CollapsingTabLayout.svg?style=flat-square&label=Stars&maxAge=604800
+[PixelSlide]: https://github.com/hearsilent/PixelSlide
+[PixelSlide-shield]: https://img.shields.io/github/stars/hearsilent/PixelSlide.svg?style=flat-square&label=Stars&maxAge=604800
+[AmazingAvatar]: https://github.com/hearsilent/AmazingAvatar
+[AmazingAvatar-shield]: https://img.shields.io/github/stars/hearsilent/AmazingAvatar.svg?style=flat-square&label=Stars&maxAge=604800
 [AndroidImageLoader]: https://github.com/wuman/AndroidImageLoader
 [AndroidImageLoader-shield]: https://img.shields.io/github/stars/wuman/AndroidImageLoader.svg?style=flat-square&label=Stars&maxAge=604800
 [UniversalAndroot]: https://github.com/shakalaca/UniversalAndroot
