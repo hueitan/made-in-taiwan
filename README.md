@@ -236,6 +236,7 @@
 [![💫][jsdx-ofono-shield]][jsdx-ofono]|[@cfsghost](https://github.com/cfsghost)/[**jsdx-ofono**](https://github.com/cfsghost/jsdx-ofono) |oFono API to support SMS/VoiceCalling/SIM and Modem Management|
 [![💫][web-speech-shield]][web-speech]|[@zhusee2](https://github.com/zhusee2)/[**web-speech**](https://github.com/zhusee2/web-speech) ||[:arrow_upper_right:](http://zhusee2.github.io/web-speech/)
 [![💫][fpEs-shield]][fpEs]|[@TeaEntityLab](https://github.com/TeaEntityLab)/[**fpEs**](https://github.com/TeaEntityLab/fpEs) |A small library provides simple usages of basic FP & pattern-matching/sumtype & MonadIO/Rx & Optional for Javascript.|[:arrow_upper_right:](https://github.com/TeaEntityLab/fpEs)
+[![💫][xiangqi-pwa-offline-shield]][xiangqi-pwa-offline]|[@dffge552](https://github.com/dffge552)/[**xiangqi-pwa-offline**](https://github.com/dffge552/xiangqi-pwa-offline)|中國象棋平台：AI對弈、棋子識別、7,300+ 題庫 | Chinese Chess platform with AI gameplay, piece recognition, and 7,300+ puzzles|[:arrow_upper_right:](https://android-xiangqi-offline.netlify.app/)
 
 ### Java
 
@@ -2960,3 +2961,5 @@
 [R-Notes-shield]: https://img.shields.io/github/stars/skydome20/R-Notes.svg?style=flat-square&label=Stars&maxAge=604800
 [crawler_CIA_CREST]: https://github.com/skydome20/crawler_CIA_CREST
 [crawler_CIA_CREST-shield]: https://img.shields.io/github/stars/skydome20/crawler_CIA_CREST.svg?style=flat-square&label=Stars&maxAge=604800
+[xiangqi-pwa-offline]: https://github.com/dffge552/xiangqi-pwa-offline
+[xiangqi-pwa-offline-shield]: https://img.shields.io/github/stars/dffge552/xiangqi-pwa-offline.svg?style=flat-square&label=Stars&maxAge=604800
