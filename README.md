@@ -2960,3 +2960,9 @@
 [R-Notes-shield]: https://img.shields.io/github/stars/skydome20/R-Notes.svg?style=flat-square&label=Stars&maxAge=604800
 [crawler_CIA_CREST]: https://github.com/skydome20/crawler_CIA_CREST
 [crawler_CIA_CREST-shield]: https://img.shields.io/github/stars/skydome20/crawler_CIA_CREST.svg?style=flat-square&label=Stars&maxAge=604800
+
+### Markdown / Knowledge Base
+
+| Project | Stars | Description |
+|---------|-------|-------------|
+| [taiwan-md](https://github.com/frank890417/taiwan-md) | 600+ | 🇹🇼 Open-source, AI-friendly knowledge base about Taiwan. 400+ articles in 12 categories, bilingual (zh/en), structured Markdown SSOT. |
